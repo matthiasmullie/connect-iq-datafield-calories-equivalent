@@ -118,10 +118,6 @@ class CaloriesEquivalentView extends WatchUi.SimpleDataField {
 			"+" => "$1$ cookies",
 		},
 		"200" => {
-			"1" => "$1$ bagel",
-			"+" => "$1$ bagels",
-		},
-		"200" => {
 			"1" => "$1$ taco",
 			"+" => "$1$ tacos",
 		},
@@ -148,6 +144,10 @@ class CaloriesEquivalentView extends WatchUi.SimpleDataField {
 		"273" => {
 			"1" => "$1$ ice cream",
 			"+" => "$1$ ice creams",
+		},
+		"280" => {
+			"1" => "$1$ bagel",
+			"+" => "$1$ bagels",
 		},
 		"290" => {
 			"1" => "$1$ pizza slice",
